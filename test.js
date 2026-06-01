@@ -1,1 +1,1 @@
-console.log("Nonsensenode test")
+console.log("Javascript Learning Journey")

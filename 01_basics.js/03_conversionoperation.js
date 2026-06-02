@@ -28,3 +28,7 @@ const the_reality_table = [
 
 console.table(the_reality_table)
 console.log(the_reality_table)
+
+
+
+
